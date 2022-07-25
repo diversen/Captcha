@@ -1,9 +1,9 @@
 {
-    "name": "gregwar/captcha",
+    "name": "diversen/captcha",
     "type": "library",
     "description": "Captcha generator",
     "keywords": ["captcha", "spam", "bot"],
-    "homepage": "https://github.com/Gregwar/Captcha",
+    "homepage": "https://github.com/diversen/Captcha",
     "license": "MIT",
     "authors": [
         {
@@ -28,6 +28,6 @@
         }
     },
     "require-dev": {
-        "phpunit/phpunit": "^6.4"
+        "phpunit/phpunit": "^9.5"
     }
 }
