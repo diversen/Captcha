@@ -348,6 +348,9 @@ class CaptchaBuilder implements CaptchaBuilderInterface
         $x = ($width - $textWidth) / 2;
         $y = ($height - $textHeight) / 2 + $size;
 
+        $x = (int)$x;
+        $y = (int)$y;
+
         if (!$this->textColor) {
             $textColor = array($this->rand(0, 150), $this->rand(0, 150), $this->rand(0, 150));
         } else {
