@@ -9,14 +9,7 @@ Installation
 
 With composer :
 
-``` json
-{
-    ...
-    "require": {
-        "gregwar/captcha": "1.*"
-    }
-}
-```
+    composer require diversen/captcha
 
 Usage
 =====
