@@ -4,11 +4,11 @@ Captcha
 ![Captchas examples](http://gregwar.com/captchas.png)
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUXRLWHQSWS6L)
 
-Note this is just a clone of https://github.com/Gregwar/Captcha
+Note this is just a fork of https://github.com/Gregwar/Captcha
 
 Made because there is no updates to the package. 
 
-It the Gregwar/Captcha package is updated I will remove the package. 
+It the Gregwar/Captcha package is updated I will remove this package. 
 
 Installation
 ============
