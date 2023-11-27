@@ -1,5 +1,9 @@
+
+
 Captcha
 =======
+
+NOTE. The 'Gregwar/Captcha' seems to be fixed, so no need to use this REPO.
 
 ![Captchas examples](http://gregwar.com/captchas.png)
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUXRLWHQSWS6L)
